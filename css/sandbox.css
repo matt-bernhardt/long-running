@@ -1,0 +1,14 @@
+body {
+	background-color: #dedede;
+}
+h1 {
+	color: red;
+}
+.sandbox-warning {
+	border: 5px solid red;
+	background: white;
+	color: black;
+	padding: 2rem;
+	font-weight: bold;
+	font-size: 2rem;
+}
