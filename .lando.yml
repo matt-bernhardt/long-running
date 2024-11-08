@@ -1,0 +1,4 @@
+name: long-running-experiment
+recipe: lamp
+config:
+  webroot: .
